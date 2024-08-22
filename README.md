@@ -1,4 +1,4 @@
-_**## The assets will be uploaded shortly.**_
+# _** The assets will be uploaded shortly.**_
 
 # Street-Combats (Street-style-fighting-game using Python and Pygame)
 No Problem! Here is the information about the "Street Fighter Style Fighting Game" built using Python and Pygame. This project showcases the essential elements of creating a 2D fighting game from the ground up. Beginning with setting up the game environment, the project involves structuring files, importing necessary libraries, and initializing a responsive game window.
